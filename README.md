@@ -38,9 +38,8 @@ Hasta el 2017 un 73% de los millennials peruanos tiene un smartphone a la mano.E
 ### Research Cualitativo
 >“Todos los millennials son diferentes de acuerdo a su país de origen”, pero la globalización ha hecho que sean >más similares entre sí, en comparación a las generaciones pasadas.
 
+### Encuestas y entrevistas
+Como parte de nuestra investigación realizamos dos tipos de encuestas. La primera encuesta se realizó a un público millennials entre 18 a 25 años de edad con el fin de conocer más sobre el comportamiendo de este grupo en el relación a sus cuentas bancarias, hábitos de consumo y hábitos de ahorro.
 
-#### ¿En qué gastan sus préstamos los millenials?
-La mayoría de los jóvenes piden préstamos de consumo y los utilizan principalmente en educación, dando como resultado una deuda promedio de S/6.900.
-
-#### ¿Qué buscan los millenials en un sistema financiero?
-El intendente de Supervisión de Conducta de Mercado de la Superintendencia de Banca y Seguros (SBS), Elías Vargas, comentó que el interés de los ‘millennials’ por el sector financiero está ligado directamente a herramientas tecnológicas que lo hagan más rápido, transparente y accesible.
+#### Encuesta N° 1 :
+![encuesta N°1](assets/encuesta-maythe.png)
