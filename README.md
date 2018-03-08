@@ -3,22 +3,22 @@
 
 # Tabla de Contenido
 - [Descubrimiento e investigación](#investigación)
- - [Millennials peruanos]
-  - [Research Cuantitativo](#)
-  - [Research Cualitativo](#)
-  - [Encuestas y entrevistas](#)
+  - [Millennials peruanos]
+   - [Research Cuantitativo](#)
+   - [Research Cualitativo](#)
+   - [Encuestas y entrevistas](#)
 - [Sintesis y definición](#sintesis)
   - [Análisis de las encuestas y entrevistas](#)
   - [Affinity Mapping](#)
   - [User persona](#)
 - [Ideación del producto](#)
- - [Benchmark](#)
- - [Producto mínimo viable(versión 1)](#)
+  - [Benchmark](#)
+  - [Producto mínimo viable(versión 1)](#)
 - [kick-off](#kick-off).
 - [Protipando](#)
- - [Protipo versión 1](#)
+  - [Protipo versión 1](#)
   - [Customer Journey](#)
- - [Protipo versión 2](#)
+  - [Protipo versión 2](#)
 - [User testing](#)
 
 
