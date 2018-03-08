@@ -3,7 +3,7 @@
 
 # Tabla de Contenido
 - [Descubrimiento e investigación](#investigación)
-  - [Millennials peruanos]
+  - Millennials peruanos
    - [Research Cuantitativo](#)
    - [Research Cualitativo](#)
    - [Encuestas y entrevistas](#)
@@ -14,7 +14,6 @@
 - [Ideación del producto](#)
   - [Benchmark](#)
   - [Producto mínimo viable(versión 1)](#)
-- [kick-off](#kick-off).
 - [Protipando](#)
   - [Protipo versión 1](#)
   - [Customer Journey](#)
