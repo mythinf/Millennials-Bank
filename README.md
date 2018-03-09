@@ -1,5 +1,5 @@
 # Banco para millenials
-"...." es un proyecto de banca enfocado en millenials peruanos que tienen una cuenta bancaria o hacen uso de algún producto financiero.
+"Peggy Bank" es un proyecto de banca enfocado en millenials peruanos que tienen una cuenta bancaria o hacen uso de algún producto financiero.
 
 # Tabla de Contenido
 - [Descubrimiento e investigación](#investigación)
