@@ -1,9 +1,12 @@
 # Banco para millenials
 "Peggy Bank" es un proyecto de banca enfocado en millenials peruanos que tienen una cuenta bancaria o hacen uso de algún producto financiero.
 
+## Integrantes
+  - Franshesca Quezada
+  - Maythe Infante
+
 # Tabla de Contenido
 - [Descubrimiento e investigación](#investigación)
-  - Millennials peruanos
    - [Research Cuantitativo](#)
    - [Research Cualitativo](#)
    - [Encuestas y entrevistas](#)
@@ -11,9 +14,9 @@
   - [Análisis de las encuestas y entrevistas](#)
   - [Affinity Mapping](#)
   - [User persona](#)
+  - [Storytelling](#)
 - [Ideación del producto](#)
-  - [Benchmark](#)
-  - [Producto mínimo viable(versión 1)](#)
+  - [Canvas de Modelo de negocio](#)
 - [Protipando](#)
   - [Protipo versión 1](#)
   - [Customer Journey](#)
@@ -35,6 +38,8 @@ De acuerdo con un estudio sobre el perfil crediticio de los 6,5 millones de ‘m
 
 Hasta el 2017 un 73% de los millennials peruanos tiene un smartphone a la mano.En el segmento A y B la cifra crece a un 95% y baja a un 60% para los estratos de menor poder adquisitivo (D y E).
 
+![pie-chart](assets/chart.png)
+
 ### Research Cualitativo
 >“Todos los millennials son diferentes de acuerdo a su país de origen”, pero la globalización ha hecho que sean >más similares entre sí, en comparación a las generaciones pasadas.
 
@@ -45,5 +50,59 @@ Como parte de nuestra investigación realizamos dos tipos de encuestas. La prime
 ![encuesta N°1](assets/encuesta-maythe.png)
 
 #### Encuesta N°2:
-Para ver más sobre esta encuesta, [Click Aqui](https://docs.google.com/forms/d/1WMbbFVPTQrjaOzwvj72N88PzAmgEKu8uMIh_QwR2BFA/edit#responses)
 ![Encuesta N2](assets/encuesta-Fran.png)
+Para ver más sobre la encuesta dada, [Click Aqui](https://docs.google.com/forms/d/1WMbbFVPTQrjaOzwvj72N88PzAmgEKu8uMIh_QwR2BFA/edit#responses)
+
+## Sintesís y definición  
+En esta siguienta etapa, hemos definido los puntos más resaltante e importantes para poder crear nuestra producto de banca digital en base de las necesidades de los millenials. A continuación estaremos expicando los resultados de las entrevistas personales y encuesta virtuales.
+
+### Analísis de las encuestas y entrevistas:
+Al terminó de ambas investigaciones hemos rescatado la siguiente información:
+
+  - Rango de edad de encuestados: 18-28 años
+
+  - Los millenials al sacar una tarjeta de débito o crédito esperan tener más descuentos o promociones en: comida, supermercados, ropa, viajes, estudios, etc.
+
+  - Descuentos sobre descuentos
+
+  - Sienten inseguridad al realizar compras por internet por temor de robo de información personal
+
+  - 0 mantenimiento en tarjeta
+
+  - Menos costo en transsaciones
+
+  ### Afinity Map
+
+  ![AffinityMap](assets/affinityMap.png)
+  
+  Al recolectar la información, nos dimos cuenta que la mayoría de millenials estabán interesados en promociones que podían sacar provecho y que la mayoria no tiene la cultura de ahorro. 
+
+  En la lluvía de ideas, salió la idea de los stakeholders de quienes trabajaríamos de la mano, y que a la vez serían empresas reconocidas donde saldrían ofertas para nuestros clientes.
+
+  **EJEMPLO:**
+
+- Aerolineas: Avianca, LanTam, American Airlines, etc.
+- Supermercados: Tottus, Metro, Wong, Plaza vea, Etc.
+- Entretenimiento: Cineplanet, Joinnus, Teleticket, etc.
+- Restaurantes: Cevicherias, Pollerias, internacionales, Etc.
+- Institutos/Universidades
+
+> Para observar el affinity map más detallado, click [aquí](https://realtimeboard.com/app/board/o9J_kzv4XjQ=/)
+
+### User Persona: Pepe
+
+
+
+### Storytelling
+
+Link de la historia de Pepé, [aquí]()
+
+### Canvas de Modelo de Negocio:
+
+ ![MNC](assets/canvas.png)
+
+ > Para observar el CMN más detallado, click [aquí](https://realtimeboard.com/app/board/o9J_kzv4XjQ=/)
+
+ ## Prototipo
+
+Se uso Figma para crear el prototipo en computadora y  y Marvel para darle funcionalidad:
