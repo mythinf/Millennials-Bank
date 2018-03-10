@@ -46,4 +46,4 @@ Como parte de nuestra investigación realizamos dos tipos de encuestas. La prime
 
 #### Encuesta N°2:
 Para ver más sobre esta encuesta, [Click Aqui](https://docs.google.com/forms/d/1WMbbFVPTQrjaOzwvj72N88PzAmgEKu8uMIh_QwR2BFA/edit#responses)
-![Encuesta N2](assets/encuesta-fran.png)
+![Encuesta N2](assets/encuesta-Fran.png)
