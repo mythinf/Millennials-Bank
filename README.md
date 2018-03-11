@@ -93,7 +93,7 @@ Al terminó de ambas investigaciones hemos rescatado la siguiente información:
 
 ### Storytelling
 
-Link de la historia de Pepé, [aquí](https://1drv.ms/w/s!Ajr-tUTQOX2ugRsxhHMkWi8Mxr4C)
+> Link de la historia de Pepé, [aquí](https://1drv.ms/w/s!Ajr-tUTQOX2ugRsxhHMkWi8Mxr4C)
 
 ### Canvas de Modelo de Negocio:
 
