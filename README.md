@@ -47,7 +47,8 @@ Como parte de nuestra investigación realizamos dos tipos de encuestas. La prime
 
 #### Encuesta N°2:
 ![Encuesta N2](assets/encuesta-Fran.png)
-Para ver más sobre la encuesta dada, [Click Aqui](https://docs.google.com/forms/d/1WMbbFVPTQrjaOzwvj72N88PzAmgEKu8uMIh_QwR2BFA/edit#responses)
+
+> Para ver más sobre la encuesta dada, [Click Aqui](https://docs.google.com/forms/d/1WMbbFVPTQrjaOzwvj72N88PzAmgEKu8uMIh_QwR2BFA/edit#responses)
 
 ## Sintesís y definición  
 En esta siguienta etapa, hemos definido los puntos más resaltante e importantes para poder crear nuestra producto de banca digital en base de las necesidades de los millenials. A continuación estaremos expicando los resultados de las entrevistas personales y encuesta virtuales.
@@ -65,7 +66,7 @@ Al terminó de ambas investigaciones hemos rescatado la siguiente información:
 
   - 0 mantenimiento en tarjeta
 
-  - Menos costo en transsaciones
+  - Menos costo en transacciones
 
   ### Afinity Map
 
