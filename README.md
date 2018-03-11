@@ -1,10 +1,6 @@
 # Banco para millenials
 "Peggy Bank" es un proyecto de banca enfocado en millenials peruanos que tienen una cuenta bancaria o hacen uso de algún producto financiero.
 
-## Integrantes
-  - Franshesca Quezada
-  - Maythe Infante
-
 # Tabla de Contenido
 - [Descubrimiento e investigación](#investigación)
    - [Research Cuantitativo](#)
@@ -91,11 +87,12 @@ Al terminó de ambas investigaciones hemos rescatado la siguiente información:
 
 ### User Persona: Pepe
 
+** IMG DE USER PERSONA **
 
 
 ### Storytelling
 
-Link de la historia de Pepé, [aquí]()
+Link de la historia de Pepé, [aquí](https://1drv.ms/w/s!Ajr-tUTQOX2ugRsxhHMkWi8Mxr4C)
 
 ### Canvas de Modelo de Negocio:
 
@@ -112,3 +109,18 @@ Se uso Figma para crear el prototipo y Marvel para darle funcionalidad:
 Nuestro prototipo se basa en guardar una parte de tu sueldo neto para cumplir tus metas financieras. Sea que quieras regalarte un reloj nuevo o realizar un viaje a Francia para 2, te ayudamos a cumplir TUS sueños. No solo eso! Somos amigos responsables pero a la vez queremos darnos un gustito o 2, ya que trabajamos y es bueno estar relax de vez en cuando, así que aparte de ayudarte cumplir tu sueños, te damos descuentos exclusivos de acorde tus intereses _mientras_ que Peggy sea alimentado! es así de simple. Y comó somos un banco digital, recuerda que puedes pagar tus cuentas, de celular, universidad, etc y realizar tranferencias... Simple, no?
 
 > Para ver el prototipo de manera funcional, click [aquí](https://marvelapp.com/3159d77)
+
+## Enlaces Adicionales:
+
+- Organización de actividades: [Trello](https://trello.com/b/vUKS3nc6/banco-digital-millenials-piggybank)
+- [Digital Board](https://realtimeboard.com/app/dashboard/) 
+- [Presentación Final](https://onedrive.live.com/view.aspx?resid=AE7D39D044B5FE3A!151&ithint=file%2cpptx&app=PowerPoint&authkey=!AOiq8jHfPXEJ5Jk)
+
+## Inspiración
+
+- [Nequi](https://www.nequi.com.co/#1) : La manera como la empresa enfoca el ahorro en su aplicación para el beneficio de metas personales a los usuarios
+- [Simple](https://www.simple.com/) : Como la empresa explica los procedimientos internos de manera simple y clara en su pág. web
+
+## Integrantes
+  - Franshesca Quezada
+  - Maythe Infante
