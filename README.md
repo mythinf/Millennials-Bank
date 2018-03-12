@@ -2,20 +2,19 @@
 "Peggy Bank" es un proyecto de banca enfocado en millenials peruanos que tienen una cuenta bancaria o hacen uso de algún producto financiero.
 
 # Tabla de Contenido
-- [Descubrimiento e investigación](#investigación)
-   - [Research Cuantitativo](#)
-   - [Research Cualitativo](#)
-   - [Encuestas y entrevistas](#)
-- [Sintesis y definición](#sintesis)
+- [Descubrimiento e investigación](#Descubrimientoeinvestigación)
+   - [Research Cuantitativo](#ResearchCuantitativo)
+   - [Research Cualitativo](#ResearchCualitativo)
+   - [Encuestas y entrevistas](#Encuestasyentrevistas)
+- [Sintesis y definición](#Sintesísydefinición )
   - [Análisis de las encuestas y entrevistas](#)
-  - [Affinity Mapping](#)
-  - [User persona](#)
-  - [Storytelling](#)
+  - [Affinity Mapping](#AfinityMap)
+  - [User persona](#UserPersona)
+  - [Storytelling](#Storytelling)
 - [Ideación del producto](#)
-  - [Canvas de Modelo de negocio](#)
+  - [Canvas de Modelo de negocio](#CanvasdeModelodeNegocio)
 - [Protipando](#)
   - [Protipo versión 1](#)
-  - [Customer Journey](#)
   - [Protipo versión 2](#)
 - [User testing](#)
 
@@ -68,11 +67,11 @@ Al terminó de ambas investigaciones hemos rescatado la siguiente información:
 
   - Menos costo en transacciones
 
-  ### Afinity Map
+### Afinity Map
 
   ![AffinityMap](assets/affinityMap.png)
-  
-  Al recolectar la información, nos dimos cuenta que la mayoría de millenials estabán interesados en promociones que podían sacar provecho y que la mayoria no tiene la cultura de ahorro. 
+
+  Al recolectar la información, nos dimos cuenta que la mayoría de millenials estabán interesados en promociones que podían sacar provecho y que la mayoria no tiene la cultura de ahorro.
 
   En la lluvía de ideas, salió la idea de los stakeholders de quienes trabajaríamos de la mano, y que a la vez serían empresas reconocidas donde saldrían ofertas para nuestros clientes.
 
@@ -86,9 +85,9 @@ Al terminó de ambas investigaciones hemos rescatado la siguiente información:
 
 > Para observar el affinity map más detallado, click [aquí](https://realtimeboard.com/app/board/o9J_kzv4XjQ=/)
 
-### User Persona: Pepe
+### User Persona:
 
-** IMG DE USER PERSONA **
+![User-person](assets/user-persona.png)
 
 
 ### Storytelling
@@ -114,7 +113,7 @@ Nuestro prototipo se basa en guardar una parte de tu sueldo neto para cumplir tu
 ## Enlaces Adicionales:
 
 - Organización de actividades: [Trello](https://trello.com/b/vUKS3nc6/banco-digital-millenials-piggybank)
-- [Digital Board](https://realtimeboard.com/app/dashboard/) 
+- [Digital Board](https://realtimeboard.com/app/dashboard/)
 - [Presentación Final](https://onedrive.live.com/view.aspx?resid=AE7D39D044B5FE3A!151&ithint=file%2cpptx&app=PowerPoint&authkey=!AOiq8jHfPXEJ5Jk)
 
 ## Inspiración
