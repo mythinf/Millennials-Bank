@@ -92,7 +92,7 @@ Al terminó de ambas investigaciones hemos rescatado la siguiente información:
 
 ### Storytelling
 
-> Link de la historia de Pepé, [aquí](https://1drv.ms/w/s!Ajr-tUTQOX2ugRsxhHMkWi8Mxr4C)
+> Link de la historia de Marco Antonio, [aquí](https://1drv.ms/w/s!Ajr-tUTQOX2ugRsxhHMkWi8Mxr4C)
 
 ### Canvas de Modelo de Negocio:
 
@@ -102,13 +102,23 @@ Al terminó de ambas investigaciones hemos rescatado la siguiente información:
 
  ## Prototipo
 
+### Prototipo Versión 1
+
 Se uso Figma para crear el prototipo y Marvel para darle funcionalidad:
 
 ![peggyBank](assets/intro.png)
 
-Nuestro prototipo se basa en guardar una parte de tu sueldo neto para cumplir tus metas financieras. Sea que quieras regalarte un reloj nuevo o realizar un viaje a Francia para 2, te ayudamos a cumplir TUS sueños. No solo eso! Somos amigos responsables pero a la vez queremos darnos un gustito o 2, ya que trabajamos y es bueno estar relax de vez en cuando, así que aparte de ayudarte cumplir tu sueños, te damos descuentos exclusivos de acorde tus intereses _mientras_ que Peggy sea alimentado! es así de simple. Y comó somos un banco digital, recuerda que puedes pagar tus cuentas, de celular, universidad, etc y realizar tranferencias... Simple, no?
+Nuestro prototipo se basa en guardar una parte de tu sueldo neto para cumplir tus metas financieras. Sea que quieras regalarte un reloj nuevo o realizar un viaje a Francia para 2, te ayudamos a cumplir TUS sueños. No solo eso! Somos amigos responsables pero a la vez queremos darnos un gustito o 2, ya que trabajamos y es bueno estar relax de vez en cuando, así que aparte de ayudarte cumplir lo que tu corazón anhela, te damos descuentos exclusivos de acorde tus intereses _mientras_ que Peggy sea alimentado! es así de simple. Y comó somos un banco digital, recuerda que puedes pagar tus cuentas, de celular, universidad, etc y realizar tranferencias... Simple, no?
 
 > Para ver el prototipo de manera funcional, click [aquí](https://marvelapp.com/3159d77)
+
+### Prototipo Versión 2
+
+![peggyBank](assets/intro_2.png)
+
+Esta es una versión mejorada de nuestra aplicación nativa para nuestros usuarios! Es igual de entendible de usar pero con un mejor diseño!
+
+> Para ver la segunda versión del prototipado de manera funcional, click [aquí](https://marvelapp.com/3159d77)
 
 ## Enlaces Adicionales:
 
